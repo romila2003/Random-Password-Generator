@@ -26,9 +26,13 @@
 
 ### Screenshot
 
-![Mobile Preview](https://github.com/romila2003/Random-Password-Generator/blob/main/mobile-screen.PNG)
+# Mobile Preview
 
-![Desktop Preview](https://github.com/romila2003/Random-Password-Generator/blob/main/desktop-screen.PNG)
+![Screenshot](https://github.com/romila2003/Random-Password-Generator/blob/main/mobile-screen.PNG)
+
+# Desktop Preview
+
+![Screenshot](https://github.com/romila2003/Random-Password-Generator/blob/main/desktop-screen.PNG)
 
 ### Links
 
@@ -65,4 +69,4 @@ function randomCharacters() {
 
 ## Acknowledgments
 
-This challenge was completed through the short [Scrimba](https://scrimba.com/learn/learnjavascript) course (Learn Javascript for free) and was the first solo challenge to be completed.
+This challenge was completed through the short [Scrimba](https://scrimba.com/learn/learnjavascript) course (Learn Javascript for free) and was the second solo challenge to be completed.
